@@ -1,2 +1,4 @@
 # ai-code-explainer
-AI Code Explainer is a web app that helps developers understand code easily using AI.  Features: - Explain code in simple language - Supports multiple programming languages - Fast AI responses
+Created a web tool that allows developers to understand programming code easily using AI. The application explains complex code in simple language and supports multiple programming languages.
+
+Technologies: PHP, JavaScript, AI API
